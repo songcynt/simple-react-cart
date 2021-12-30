@@ -1,0 +1,9 @@
+input{
+    white-space: pre-line;
+    display: inline-block;
+}
+.checkout_container{
+    display: inline-block;
+    flex-direction: row;
+    justify-content: center;
+}

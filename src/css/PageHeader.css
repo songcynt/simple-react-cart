@@ -1,0 +1,21 @@
+.web-page-header{
+    display: flex;
+    align-items: center;
+    background: rgb(39, 41, 39);
+}
+
+.header-text{
+    color:white;
+}
+
+.links-decor{
+    text-decoration: none;
+}
+
+#site-name{
+    color: rgb(209, 223, 209);
+}
+
+#checkout-button{
+    display: flex;
+}
